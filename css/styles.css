@@ -1,0 +1,28 @@
+
+.upper img{
+    height: 200px;
+    width : 200px;
+   
+}
+.blog-1{
+    background-color:aqua;
+    border: 5px solid black;
+    border-radius: 5px;
+    margin: 50px;
+    padding: 20px;
+    
+}
+.blog-2{
+    background-color:rgb(40, 206, 11);
+    border: 5px solid black;
+    border-radius: 5px;
+    margin: 50px;
+    padding: 20px;
+}
+.blog-3{
+    background-color:rgb(21, 18, 218);
+    border: 5px solid black;
+    border-radius: 5px;
+    margin: 50px;
+    padding: 20px;
+}
